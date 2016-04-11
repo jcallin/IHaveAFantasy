@@ -1,0 +1,8 @@
+# IHaveAFantasy
+A Python script for improving your essay's word choice... sort of
+
+Copy something to the clipboard and run the script!
+
+Below is the first 3 paragraphs of Martin Luther King's "I Have a Dream" speech reinterpreted by the script.
+
+I am happy to join with you today in what will go down in past as the terrible expression for power in the good old days of our ration Five score years ago, a great african in whose token shade we stand tidy witnessed the delivery reclamation This fateful directive came as a great rocket light of hope to lot of Negro serf who had been sizzle in the blaze of shrinking in-justice It came as a festive dawn to end the long night of their creativity But 100 years alter the Negro still is not free. One hundredth years larder the life of the Negro is still sadly broken by the chain of isolation and the conglomerate of discriminating One century years alter the Negro lives on a isolated peninsula of debt in the midst of a vast ocean of substantial prospering One centennial years latter the Negro is still dwindle in the rim of americas nation and finds an exile in his own land. And so we've come here today to execute a embarrassing conditioner In a sense we've come to our nationals major to cash a cheek When the designer of our democratic state wrote the imposing words of the nature and the saying of in dependency they were signal a promising note to which every americas was to fall heir. This note was a word that all men -- yes, black men as well as white men -- would be assured the built-in freedom of life, uberty and the reaching of hairiness 
